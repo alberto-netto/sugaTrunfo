@@ -18,7 +18,6 @@ var carta2 = {
     Nerdice:1,
   }
 }
-
 var carta3 = {
   nome: "Mario",
   imagem:"https://i.imgur.com/URke8du.png",
@@ -81,7 +80,7 @@ var carta8 = {
 }
 var carta9 = {
   nome: "Guilermin",
-   imagem:"https://i.imgur.com/cT19dwq.png",
+   imagem:"https://i.imgur.com/LQUNGFP.png",
   atributos: {
     Ousadia:6,
     Desenrolo:7,
@@ -89,7 +88,6 @@ var carta9 = {
     Nerdice:5,
   }
 }
-;
 
 var cartas = [carta1, carta2, carta3, carta4, carta5, carta6, carta7, carta8, carta9];
 var cartaMaquina = 0
